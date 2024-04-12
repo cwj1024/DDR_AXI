@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGA_projects/Xillinx/DDR_AXI/rtl
+vaxi_adma_v1
+!s110 1712738217
+!i10b 1
+!s100 6BSd=maVSdRQUVXBX>UBz2
+Im;_UiPfhGehzPYY]e^3V>0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1712738217
+8c:\users\37259\appdata\local\temp\tmpda4my3.v
+Fc:\users\37259\appdata\local\temp\tmpda4my3.v
+Z2 L0 10
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1712738217.000000
+!s107 c:\users\37259\appdata\local\temp\tmpda4my3.v|
+!s90 c:\users\37259\appdata\local\temp\tmpda4my3.v|
+!i113 0
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vaxi_wr_master
+!s110 1712739819
+!i10b 1
+!s100 NX6]?KdGk3:Q[d0id3BY@0
+IKiS2]_BLdaF7=;NS?`4o80
+R1
+R0
+w1712739819
+8c:\users\37259\appdata\local\temp\tmp9a2sik.v
+Fc:\users\37259\appdata\local\temp\tmp9a2sik.v
+R2
+R3
+r1
+!s85 0
+31
+!s108 1712739819.000000
+!s107 c:\users\37259\appdata\local\temp\tmp9a2sik.v|
+!s90 c:\users\37259\appdata\local\temp\tmp9a2sik.v|
+!i113 0
+R4
+R5
+vwr_buffer
+!s110 1712738216
+!i10b 1
+!s100 2UnceQPbocmBCPdU`>:`W1
+IJMOnSYbe`Ub4286k_`S0Y0
+R1
+R0
+w1712738215
+8c:\users\37259\appdata\local\temp\tmpw2mtfq.v
+Fc:\users\37259\appdata\local\temp\tmpw2mtfq.v
+R2
+R3
+r1
+!s85 0
+31
+!s108 1712738215.000000
+!s107 c:\users\37259\appdata\local\temp\tmpw2mtfq.v|
+!s90 c:\users\37259\appdata\local\temp\tmpw2mtfq.v|
+!i113 0
+R4
+R5
+vwr_ctrl
+!s110 1712739634
+!i10b 1
+!s100 gG[]Xfgk;a;0<k:jK?JND0
+IZe9f2LE]?]iThaRVzGHMb0
+R1
+R0
+w1712739634
+8c:\users\37259\appdata\local\temp\tmpgkmunm.v
+Fc:\users\37259\appdata\local\temp\tmpgkmunm.v
+R2
+R3
+r1
+!s85 0
+31
+!s108 1712739634.000000
+!s107 c:\users\37259\appdata\local\temp\tmpgkmunm.v|
+!s90 c:\users\37259\appdata\local\temp\tmpgkmunm.v|
+!i113 0
+R4
+R5
